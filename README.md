@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning and Developing Mobile Application [My CV](https://docs.google.com/document/d/1tlB6FRyH18OV8vzyN4vFyqikiPjng8fk32q9RCDTvUM/edit?usp=sharing)
 - ❓ Ask me about anything related to Android, OOP, Java, Kotlin, XML, Firebase, Mobile, RESTful APIs, Database, UI, UX,  
-- 🎨 UI Portfolio: You can See my UI Designes here [Nafezly Portofolio](https://nafezly.com/u/AmrAHmed)  
+- 🎨 UI Portfolio: You can See my UI Designes here [Nafezly Portofolio](https://nafezly.com/u/AmrAHmed/portfolio)  
 - ⚡ Fun fact: i Love 😺 🌍 ❄️ 🍔 🍤 ⚽️ 🎧 🎬 🎤 ✈️ 💻 📱 📸  
 <br/>  
 
