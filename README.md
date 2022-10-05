@@ -2,11 +2,11 @@
 <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" align="center" style="width: 100%" />
 </div>  
 
-### <div align="center">I'm Amr Ahmed, Android Developer 📱 | UI/UX Designer 🎨 in Egypt</div>  
+### <div align="center">I'm Amr Ahmed, Android Developer 📱 | UI/UX Designer 🎨 in Egypt, Google Developer Group Organizer | Mentor Google Developer Student Club </div>  
   
   
 
-- 🌱 I’m currently learning and Developing Mobile Application  
+- 🌱 I’m currently learning and Developing Mobile Application [My CV](https://docs.google.com/document/d/1tlB6FRyH18OV8vzyN4vFyqikiPjng8fk32q9RCDTvUM/edit?usp=sharing)
 - ❓ Ask me about anything related to Android, OOP, Java, Kotlin, XML, Firebase, Mobile, RESTful APIs, Database, UI, UX,  
 - 🎨 UI Portfolio: You can See my UI Designes here [Nafezly Portofolio](https://nafezly.com/u/AmrAHmed)  
 - ⚡ Fun fact: i Love 😺 🌍 ❄️ 🍔 🍤 ⚽️ 🎧 🎬 🎤 ✈️ 💻 📱 📸  
